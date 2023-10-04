@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Sans:wght@500&family=Frank+Ruhl+Libre:wght@900&family=Pixelify+Sans&display=swap");
+
+h1 {
+  font-family: "Pixelify Sans", cursive;
+  text-align: center;
+}
+
+.imgbox {
+  width: 50vw;
+  height: 40vw;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-image: url(pexels-jeremy-bishop-2422915.jpg);
+  margin: auto;
+}
